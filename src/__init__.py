@@ -1,0 +1,1 @@
+# inside the src folder, the __init__.py file allows you to treat the src folder as a package, enabling you to import files from that folder into other parts of your application.

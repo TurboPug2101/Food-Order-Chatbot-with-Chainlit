@@ -1,0 +1,6 @@
+chainlit
+openai
+python-dotenv
+groq
+-e .
+#  -e . is used to install a package in "editable" or "development" mode
